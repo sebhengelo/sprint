@@ -1,6 +1,6 @@
 languageCode: en
 title: Flowbite Application
-baseURL: http://localhost:1313
+baseURL: https://sprint-ashen.vercel.app/
 enableInlineShortcodes: true
 canonifyURLs: true
 params:
