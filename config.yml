@@ -1,5 +1,5 @@
 languageCode: en
-title: Flowbite Application UI
+title: Flowbite Application
 baseURL: http://localhost:1313
 enableInlineShortcodes: true
 canonifyURLs: true
