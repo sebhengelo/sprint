@@ -1,6 +1,6 @@
 languageCode: en
 title: Flowbite Application UI
-baseURL: http://localhost:1313
+baseURL: https://sprint-rho.vercel.app/
 enableInlineShortcodes: true
 canonifyURLs: true
 params:
