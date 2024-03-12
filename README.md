@@ -18,4 +18,4 @@ If you want to generate the production files you have to run `npm run build`.
 
 In October 2021 we will develop a friendlier way to use the project files and the interface for your project by making HUGO optional. For now these are the source files that we worked with to build the application UI code. You'll be able to include these files directly from flowbite.com from a dashboard similar to what Tailwind UI offers, but also download the HTML, Tailwind CSS config and JavaScript source files, without the HUGO source files.
 
-If you face difficulties please contact zoltan@themesberg.com and we will help you out as soon as possible.
+If you face difficulties please contact zoltan@themesberg.com and we will help you out as soon as possible.# sprint
